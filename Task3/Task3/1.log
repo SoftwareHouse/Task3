@@ -1,0 +1,824 @@
+﻿2014-02-20T16:04:56.265+08:00| vmx| I120: Log for VMware Workstation pid=1688 version=10.0.1 build=build-1379776 option=Release
+2014-02-20T16:04:56.265+08:00| vmx| I120: The process is 32-bit.
+2014-02-20T16:04:56.265+08:00| vmx| I120: Host codepage=windows-936 encoding=GBK
+2014-02-20T16:04:56.265+08:00| vmx| I120: Host is Windows XP Professional Service Pack 3 (Build 2600)
+2014-02-20T16:04:56.062+08:00| vmx| I120: VTHREAD initialize main thread 0 "vmx" host id 2032
+2014-02-20T16:04:56.093+08:00| vmx| I120: LOCALE GBK -> zh_CN User=804 System=804
+2014-02-20T16:04:56.093+08:00| vmx| I120: Msg_SetLocaleEx: HostLocale=GBK UserLocale=zh_CN
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable gfdgdfgdfgdfgdfgdfgdfgdfgdfgdfgdfg
+fgfd
+gfdg
+dfgfd
+gdfg
+dfg
+g
+ew
+g
+d
+gs
+g
+s
+df
+ew
+fwe
+f
+d
+sg
+s
+erwe
+
+d
+sg
+sd
+f
+ew
+f
+we
+f
+sd
+fsf
+ew
+ew
+rfWorkstation): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: Msg_Reset:
+2014-02-20T16:04:56.203+08:00| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Documents and Settings\Administrator\Application Data\VMware\config.ini": The system cannot find the file specified.
+2014-02-20T16:04:56.203+08:00| vmx| I120: ----------------------------------------
+2014-02-20T16:04:56.203+08:00| vmx| I120: ConfigDB: Failed to load C:\Documents and Settings\Administrator\Application Data\VMware\config.ini
+2014-02-20T16:04:56.203+08:00| vmx| I120: OBJLIB-LIB: Objlib initialized.
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.203+08:00| vmx| I120: Msg_Reset:
+2014-02-20T16:04:56.203+08:00| vmx| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Documents and Settings\Administrator\Application Data\VMware\config.ini": The system cannot find the file specified.
+2014-02-20T16:04:56.203+08:00| vmx| I120: ----------------------------------------
+2014-02-20T16:04:56.203+08:00| vmx| I120: PREF Optional preferences file not found at C:\Documents and Settings\Administrator\Application Data\VMware\config.ini. Using default values.
+2014-02-20T16:04:56.203+08:00| vmx| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-02-20T16:04:56.234+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.234+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.234+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.234+08:00| vmx| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:04:56.281+08:00| vmx| I120: Hostname=hp49
+2014-02-20T16:04:56.281+08:00| vmx| I120: IP=172.16.5.149
+2014-02-20T16:04:56.281+08:00| vmx| I120: IP=192.168.115.1
+2014-02-20T16:04:56.281+08:00| vmx| I120: IP=192.168.203.1
+2014-02-20T16:04:56.281+08:00| vmx| I120: HOSTINFO 3425072187 @ 3579545Hz -> 0 @ 1000000000Hz
+2014-02-20T16:04:56.281+08:00| vmx| I120: HOSTINFO ((x * 2343484437) >> 23) + -956845684747
+2014-02-20T16:04:56.312+08:00| vmx| I120: System uptime 953921875 us
+2014-02-20T16:04:56.312+08:00| vmx| I120: Command line: "C:\Program Files\VMware\VMware Workstation\vmware-vmx.exe" "-E" "zh_CN" "-s" "vmx.stdio.keep=TRUE" "-#" "product=1;name=VMware Workstation;version=10.0.1;buildnumber=1379776;licensename=VMware Workstation;licenseversion=10.0;" "-@" "pipe=\\.\pipe\vmxe5ec5854ef21c9d4;" "D:\Ubuntu 64 位.vmx"
+2014-02-20T16:04:56.312+08:00| vmx| I120: Msg_SetLocaleEx: HostLocale=GBK UserLocale=zh_CN
+2014-02-20T16:04:56.515+08:00| vmx| I120: Connecting 'ui' to pipe '\\.\pipe\vmxe5ec5854ef21c9d4' with user '(null)'
+2014-02-20T16:04:56.515+08:00| vmx| I120: VMXVmdb: Local connection timeout: 60000 ms.
+2014-02-20T16:04:56.625+08:00| vmx| I120: VmdbAddConnection: cnxPath=/db/connection/#1/, cnxIx=1
+2014-02-20T16:04:56.625+08:00| vmx| I120: Vix: [2032 mainDispatch.c:475]: VMAutomation: Initializing VMAutomation.
+2014-02-20T16:04:56.625+08:00| vmx| I120: Vix: [2032 mainDispatch.c:772]: VMAutomationOpenListenerSocket() listening
+2014-02-20T16:04:56.671+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2014-02-20T16:04:56.671+08:00| vmx| I120: Transitioned vmx/execState/val to poweredOff
+2014-02-20T16:04:56.671+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2014-02-20T16:04:56.671+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1877, success=1 additionalError=0
+2014-02-20T16:04:56.671+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=3, newAppState=1881, success=1 additionalError=0
+2014-02-20T16:04:56.671+08:00| vmx| I120: HD: host version is 5.1.2600
+2014-02-20T16:04:56.671+08:00| vmx| I120: HD: addr 8050a8d4
+2014-02-20T16:04:56.671+08:00| vmx| I120: HD: 805630dc, 80555280
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta -2560 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta 2556 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta -2560 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta 2560 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta -2560 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta 2555 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta -2560 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta 2560 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta -2560 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: Locked limit delta 2560 pages
+2014-02-20T16:04:56.671+08:00| vmx| I120: VerificationOfHostParameters status 0
+2014-02-20T16:04:56.703+08:00| vmx| I120: FeatureCompat: EVC masks:
+2014-02-20T16:04:56.750+08:00| vmx| I120: Common: mask 0 = 0xffffffffffffffff
+2014-02-20T16:04:56.750+08:00| vmx| I120: Common: mask 1 = 0xffffffffffffffff
+2014-02-20T16:04:56.750+08:00| vmx| I120: Common: mask 2 = 0xffffffffffffffff
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID vendor: GenuineIntel
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID family: 0x6 model: 0x2a stepping: 0x7
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID codename: Sandy Bridge
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID name: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000000, 0: 0x0000000d 0x756e6547 0x6c65746e 0x49656e69
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000001, 0: 0x000206a7 0x00100800 0x17bae3ff 0xbfebfbff
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000002, 0: 0x76035a01 0x00f0b0ff 0x00000000 0x00ca0000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000004, 0: 0x1c004121 0x01c0003f 0x0000003f 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000004, 1: 0x1c004122 0x01c0003f 0x0000003f 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000004, 2: 0x1c004143 0x01c0003f 0x000001ff 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000004, 3: 0x1c03c163 0x02c0003f 0x00001fff 0x00000006
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000004, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000005, 0: 0x00000040 0x00000040 0x00000003 0x00001120
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000006, 0: 0x00000077 0x00000002 0x00000009 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000007, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 00000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000a, 0: 0x07300803 0x00000000 0x00000000 0x00000603
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000b, 0: 0x00000001 0x00000001 0x00000100 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 0: 0x00000007 0x00000240 0x00000340 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 1: 0x00000001 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 2: 0x00000100 0x00000240 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 3: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 5: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 6: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 7: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 8: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 9: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, a: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, b: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, c: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, d: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, e: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, f: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 10: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 11: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 12: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 13: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 14: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 15: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 16: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 17: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 18: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 19: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 1a: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 1b: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 1c: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 1d: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 1e: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 1f: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 20: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 21: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 22: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 23: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 24: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 25: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 26: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 27: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 28: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 29: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 2a: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 2b: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 2c: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 2d: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 2e: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 2f: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 30: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 31: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 32: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 33: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 34: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 35: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 36: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 37: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 38: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 39: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 3a: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 3b: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 3c: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 3d: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 3e: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 0000000d, 3f: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 80000000, 0: 0x80000008 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 80000001, 0: 0x00000000 0x00000000 0x00000001 0x28100000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 80000002, 0: 0x20202020 0x20202020 0x65746e49 0x2952286c
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 80000003, 0: 0x726f4320 0x4d542865 0x35692029 0x3034322d
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 80000004, 0: 0x50432030 0x20402055 0x30312e33 0x007a4847
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 80000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 80000006, 0: 0x00000000 0x00000000 0x01006040 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 80000007, 0: 0x00000000 0x00000000 0x00000000 0x00000100
+2014-02-20T16:04:56.750+08:00| vmx| I120: hostCPUID level 80000008, 0: 0x00003024 0x00000000 0x00000000 0x00000000
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID differences from hostCPUID.
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[1] level 00000001, 0: 0x000206a7 0x02100800 0x17bae3ff 0xbfebfbff
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[1] level 0000000b, 0: 0x00000001 0x00000001 0x00000100 0x00000002
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[1] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000002
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[1] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000002
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[2] level 00000001, 0: 0x000206a7 0x04100800 0x17bae3ff 0xbfebfbff
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[2] level 0000000b, 0: 0x00000001 0x00000001 0x00000100 0x00000004
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[2] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000004
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[2] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000004
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[3] level 00000001, 0: 0x000206a7 0x06100800 0x17bae3ff 0xbfebfbff
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[3] level 0000000b, 0: 0x00000001 0x00000001 0x00000100 0x00000006
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[3] level 0000000b, 1: 0x00000004 0x00000004 0x00000201 0x00000006
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID[3] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000006
+2014-02-20T16:04:56.750+08:00| vmx| I120: CPUID Maximum Physical Address Bits supported across all CPUs: 36
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR       0x3a =                0x1
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x480 =   0xda040000000010
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x481 =       0x7f00000016
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x482 = 0xfff9fffe0401e172
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x483 =   0x7fffff00036dff
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x484 =     0xffff000011ff
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x485 =         0x100401e5
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x486 =         0x80000021
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x487 =         0xffffffff
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x488 =             0x2000
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x489 =            0x667ff
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x48a =               0x2a
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x48b =       0xff00000000
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x48c =      0xf0106114141
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x48d =       0x7f00000016
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x48e = 0xfff9fffe04006172
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x48f =   0x7fffff00036dfb
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x490 =     0xffff000011fb
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR      0x491 =                  0
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR 0xc0010114 =                  0
+2014-02-20T16:04:56.953+08:00| vmx| I120: Common: MSR       0xce =         0x60011f00
+2014-02-20T16:04:56.953+08:00| vmx| I120: CPU[0]: MSR       0xce =     0x100060011f00
+2014-02-20T16:04:56.953+08:00| vmx| I120: CPU[1]: MSR       0xce =     0x100060011f00
+2014-02-20T16:04:56.953+08:00| vmx| I120: CPU[2]: MSR       0xce =     0x100060011f00
+2014-02-20T16:04:56.953+08:00| vmx| I120: CPU[3]: MSR       0xce =     0x100060011f00
+2014-02-20T16:04:56.984+08:00| vmx| I120: VMMon_GetkHzEstimate: Calculated 3092974 kHz
+2014-02-20T16:04:56.984+08:00| vmx| I120: HOSTINFO: Host supports constant rate TSC.
+2014-02-20T16:04:56.984+08:00| vmx| I120: TSC kHz estimates: vmmon 3092974, remembered 0, osReported 3092000. Using 3092974 kHz.
+2014-02-20T16:04:57.015+08:00| vmx| I120: TSC first measured delta 319
+2014-02-20T16:04:57.078+08:00| vmx| I120: TSC min delta 285
+2014-02-20T16:04:57.078+08:00| vmx| I120: PTSC: RefClockToPTSC 0 @ 3579545Hz -> 0 @ 3092974000Hz
+2014-02-20T16:04:57.078+08:00| vmx| I120: PTSC: RefClockToPTSC ((x * 3624168216) >> 22) + -2961936127369
+2014-02-20T16:04:57.078+08:00| vmx| I120: PTSC: tscOffset -2950214107886
+2014-02-20T16:04:57.078+08:00| vmx| I120: PTSC: using TSC
+2014-02-20T16:04:57.109+08:00| vmx| I120: PTSC: hardware TSCs are synchronized.
+2014-02-20T16:04:57.109+08:00| vmx| I120: PTSC: current PTSC=100161807
+2014-02-20T16:04:57.109+08:00| vmx| I120: VMIOP: Init started
+2014-02-20T16:04:57.171+08:00| vmx| I120: MACWireless: registered wireless module "emulated"
+2014-02-20T16:04:57.203+08:00| vmx| I120: ConfigCheck: No rules file found. Checks are disabled.
+2014-02-20T16:04:57.203+08:00| vmx| I120: changing directory to D:\.
+2014-02-20T16:04:57.203+08:00| vmx| I120: Config file: D:\Ubuntu 64 位.vmx
+2014-02-20T16:04:57.203+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2014-02-20T16:04:57.203+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1878, success=1 additionalError=0
+2014-02-20T16:04:57.218+08:00| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\vmware-2.log): The system cannot find the file specified (2)
+2014-02-20T16:04:57.390+08:00| vmx| I120: VMXVmdbCbVmVmxExecState: Exec state change requested to state poweredOn without reset, soft, softOptionTimeout: 0.
+2014-02-20T16:04:57.390+08:00| vmx| I120: Tools: sending 'OS_PowerOn' (state = 3) state change request
+2014-02-20T16:04:57.390+08:00| vmx| I120: Tools: Delaying state change request to state 3.
+2014-02-20T16:04:57.390+08:00| vmx| W110: PowerOn
+2014-02-20T16:04:57.390+08:00| vmx| I120: VMX_PowerOn: VMX build 1379776, UI build 1379776
+2014-02-20T16:04:57.390+08:00| vmx| I120: HostWin32: WIN32 NUMA node 0, CPU mask 0x000000000000000f
+2014-02-20T16:04:57.390+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1871, success=1 additionalError=0
+2014-02-20T16:04:57.421+08:00| vmx| I120: HOST Windows version 5.1, build 2600, platform 2, "Service Pack 3", SMP
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- USER PREFERENCES C:\Documents and Settings\Administrator\Application Data\VMware\preferences.ini 
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT       pref.license.maxNum = "1"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT     pref.license0.version = "10.0"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT pref.license0.registrationViewed = "FALSE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT pref.license0.lastEvalReminder = "30"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT         vmWizard.guestKey = "ubuntu-64"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT vmWizard.installMediaType = "iso"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT vmWizard.isoLocationMRU.count = "1"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT vmWizard.isoLocationMRU0.location = "D:\ubuntu-12.04-desktop-amd64.iso"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- USER DEFAULTS C:\Documents and Settings\Administrator\Application Data\VMware\config.ini 
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- HOST DEFAULTS C:\Documents and Settings\All Users\Application Data\VMware\VMware Workstation\config.ini 
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT         authd.client.port = "902"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "11188"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "no"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "11188"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- SITE DEFAULTS C:\Documents and Settings\All Users\Application Data\VMware\VMware Workstation\config.ini 
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT         authd.client.port = "902"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "11188"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "no"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "11188"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- NONPERSISTENT
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT            vmx.stdio.keep = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT             gui.available = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- COMMAND LINE
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT            vmx.stdio.keep = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT             gui.available = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- RECORDING
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT            vmx.stdio.keep = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT             gui.available = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- CONFIGURATION D:\Ubuntu 64 位.vmx 
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT            config.version = "8"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT         virtualHW.version = "10"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT               vcpu.hotadd = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT             scsi0.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT          scsi0.virtualDev = "lsilogic"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT             sata0.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT                   memsize = "1552"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT                mem.hotadd = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT           scsi0:0.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT          scsi0:0.fileName = "Ubuntu 64 位.vmdk"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT           sata0:0.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT          sata0:0.fileName = "autoinst.iso"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        sata0:0.deviceType = "cdrom-image"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT           sata0:1.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT          sata0:1.fileName = "D:\ubuntu-12.04-desktop-amd64.iso"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        sata0:1.deviceType = "cdrom-image"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT          floppy0.fileType = "file"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT          floppy0.fileName = "autoinst.flp"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT      floppy0.clientDevice = "FALSE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT         ethernet0.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT  ethernet0.connectionType = "nat"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT      ethernet0.virtualDev = "e1000"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT   ethernet0.wakeOnPcktRcv = "FALSE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT     ethernet0.addressType = "generated"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT               usb.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT              ehci.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        ehci.pciSlotNumber = "0"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT             sound.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT            sound.fileName = "-1"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT          sound.autodetect = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT              mks.enable3d = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT           serial0.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT          serial0.fileType = "thinprint"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        pciBridge0.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        pciBridge4.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT     pciBridge4.virtualDev = "pcieRootPort"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT      pciBridge4.functions = "8"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        pciBridge5.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT     pciBridge5.virtualDev = "pcieRootPort"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT      pciBridge5.functions = "8"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        pciBridge6.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT     pciBridge6.virtualDev = "pcieRootPort"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT      pciBridge6.functions = "8"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        pciBridge7.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT     pciBridge7.virtualDev = "pcieRootPort"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT      pciBridge7.functions = "8"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT             vmci0.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT             hpet0.present = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT usb.vbluetooth.startConnected = "TRUE"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT               displayName = "Ubuntu 64 位"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT                   guestOS = "ubuntu-64"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT                     nvram = "Ubuntu 64 位.nvram"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT virtualHW.productCompatibility = "hosted"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        powerType.powerOff = "soft"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT         powerType.powerOn = "soft"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT         powerType.suspend = "soft"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT           powerType.reset = "soft"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT        extendedConfigFile = "Ubuntu 64 位.vmxf"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- USER DEFAULTS C:\Documents and Settings\Administrator\Application Data\VMware\config.ini 
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- HOST DEFAULTS C:\Documents and Settings\All Users\Application Data\VMware\VMware Workstation\config.ini 
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT         authd.client.port = "902"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "11188"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "no"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "11188"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- SITE DEFAULTS C:\Documents and Settings\All Users\Application Data\VMware\VMware Workstation\config.ini 
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT         authd.client.port = "902"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "11188"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.componentDownloadEnabled = "yes"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled = "no"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT installerDefaults.dataCollectionEnabled.epoch = "11188"
+2014-02-20T16:04:57.421+08:00| vmx| I120: DICT --- GLOBAL SETTINGS C:\Documents and Settings\All Users\Application Data\VMware\VMware Workstation\settings.ini 
+2014-02-20T16:04:57.437+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2014-02-20T16:04:57.468+08:00| vmx| I120: hostCpuFeatures = 0x6002fd
+2014-02-20T16:04:57.468+08:00| vmx| I120: hostNumGenPerfCounters = 8
+2014-02-20T16:04:57.468+08:00| vmx| I120: hostNumFixedPerfCounters = 3
+2014-02-20T16:04:57.468+08:00| vmx| I120: hostPerfCtrArch = 3
+2014-02-20T16:04:57.468+08:00| vmx| I120: CPU0: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x1b, smmFrz (hw): (1)
+2014-02-20T16:04:57.468+08:00| vmx| I120:  [c:0 f:1 e:0]
+2014-02-20T16:04:57.468+08:00| vmx| I120: CPU1: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x1b, smmFrz (hw): (1)
+2014-02-20T16:04:57.468+08:00| vmx| I120:  [c:0 f:1 e:0]
+2014-02-20T16:04:57.468+08:00| vmx| I120: CPU2: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x1b, smmFrz (hw): (1)
+2014-02-20T16:04:57.468+08:00| vmx| I120:  [c:0 f:1 e:0]
+2014-02-20T16:04:57.468+08:00| vmx| I120: CPU3: PMC: IA32, Nehalem-C or later PMC: Patch Level 0x1b, smmFrz (hw): (1)
+2014-02-20T16:04:57.468+08:00| vmx| I120:  [c:0 f:1 e:0]
+2014-02-20T16:04:57.468+08:00| vmx| I120: MONITOR MODE: allowed modes          : BT
+2014-02-20T16:04:57.468+08:00| vmx| I120: MONITOR MODE: user requested modes   : BT HV HWMMU
+2014-02-20T16:04:57.468+08:00| vmx| I120: MONITOR MODE: guestOS preferred modes: HWMMU HV BT
+2014-02-20T16:04:57.468+08:00| vmx| I120: MONITOR MODE: filtered list          : BT
+2014-02-20T16:04:57.468+08:00| vmx| I120: MsgHint: msg.monitor.BTnoLM2
+2014-02-20T16:04:57.468+08:00| vmx| I120+ Binary translation is incompatible with long mode on this platform. Long mode will be disabled in this virtual environment. Applications requiring long mode will not function properly as a result. See http://vmware.com/info?id=152 for more details.
+2014-02-20T16:04:57.468+08:00| vmx| I120+ ---------------------------------------
+2014-02-20T16:05:04.718+08:00| vmx| I120: HV Settings: virtual exec = 'software'; virtual mmu = 'software'
+2014-02-20T16:05:04.781+08:00| vmx| I120: OvhdMem_PowerOn: lib/overheadmem:   paged   616776 nonpaged    36955 anonymous    14333
+2014-02-20T16:05:04.781+08:00| vmx| I120: OvhdMem_PowerOn: initial admission: paged   590258 nonpaged    36158 anonymous     7934
+2014-02-20T16:05:04.781+08:00| vmx| I120: VMMEM: Initial Reservation: 925MB (MainMem=1552MB)
+2014-02-20T16:05:04.796+08:00| vmx| I120: MemSched_PowerOn: balloon minGuestSize 52428 (80% of min required size 65536)
+2014-02-20T16:05:04.796+08:00| vmx| I120: MemSched: reserved mem (in MB) min 128 max 2298 recommended 2298
+2014-02-20T16:05:04.796+08:00| vmx| I120: PShare: enabled 1 adaptive 1 scanRate [16, 400]
+2014-02-20T16:05:04.796+08:00| vmx| I120: MemSched: pg 590258 np 36158 anon 7934 mem 397312
+2014-02-20T16:05:04.875+08:00| vmx| I120: MemSched: numvm 1 locked pages: num 0 max 580096
+2014-02-20T16:05:04.875+08:00| vmx| I120: MemSched: locked Page Limit: host 696173 config 588288 dynam 630052
+2014-02-20T16:05:04.875+08:00| vmx| I120: MemSched: minmempct 50 minalloc 0 admitted 1
+2014-02-20T16:05:04.875+08:00| vmx| W110: NUMA: automatic VM sizing request ignored
+2014-02-20T16:05:04.890+08:00| WinNotifyThread| I120: VTHREAD start thread 4 "WinNotifyThread" host id 468
+2014-02-20T16:05:04.890+08:00| WinNotifyThread| I120: WinNotify thread is alive
+2014-02-20T16:05:04.890+08:00| vmx| I120: LICENSE using: 'HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware Workstation\License.ws.10.0.e1.201303' 
+2014-02-20T16:05:04.890+08:00| vthread-5| I120: VTHREAD start thread 5 "vthread-5" host id 772
+2014-02-20T16:05:04.890+08:00| vmx| I120: PolicyVMXFindPolicyKey: policy file does not exist.
+2014-02-20T16:05:04.890+08:00| vmx| I120: PolicyVMXFindPolicyKey: policy file does not exist.
+2014-02-20T16:05:04.984+08:00| vmx| I120: Host IPI vectors: 0xe1 0.  Monitor IPI vector: 0
+2014-02-20T16:05:04.984+08:00| vmx| I120: Monitor_PowerOn: HostedVSMP skew tracking is disabled
+2014-02-20T16:05:05.000+08:00| vmx| I120: Monitor64_PowerOn()
+2014-02-20T16:05:05.000+08:00| vmx| I120: Loaded worldswitch: .wsBody32.  Size = 768.
+2014-02-20T16:05:05.000+08:00| vmx| I120: Successfully loaded worldswitch fault handlers from .switchNMI.  Size = 240.
+2014-02-20T16:05:05.000+08:00| vmx| I120: vmm64-modules: [vmm.vmm64, mmu-nohv.vmm64, vprobe-none.vmm64, hv-none.vmm64, gphys-sw.vmm64, vmsafe-none.vmm64, callstack-none.vmm64, vmce-none.vmm64, vvtd-none.vmm64, ahci-ahci.vmm64, {SharedAreaReservations} .shared_per_vm_vmx:0x2b00, {SharedInterVcpuVmxSection}, {SharedInterVcpuSection}, <MonSrcFile>, hvLoadedAsAddr=0x0, useNPTAsAddr=0x0, vcpusetFullAsAddr=0x1, numVCPUsAsAddr=0x1, busmemFrameMPNOffsetAsAddr=0xc, busmemFramesPerPgDivSh2AsAddr=0x7, busmemFramesPerPgDivSh1AsAddr=0x1, busmemFramesPerPgDivMulAsAddr=0x100000000, busmemFramesPerPageAsAddr=0x100, busmemFrameSizeAsAddr=0x10]
+2014-02-20T16:05:05.000+08:00| vmx| I120: vmm64-vcpus:  1
+2014-02-20T16:05:05.015+08:00| vmx| I120: KHZEstimate 3092974
+2014-02-20T16:05:05.015+08:00| vmx| I120: MHZEstimate 3093
+2014-02-20T16:05:05.015+08:00| vmx| I120: NumVCPUs 1
+2014-02-20T16:05:05.015+08:00| vmx| I120: BusMemServices: page checkRate 16
+2014-02-20T16:05:05.015+08:00| vmx| I120: UUID: location-UUID is 56 4d 5d 33 b1 ef 2d 1f-6e 2f fb e9 7e 21 4a de
+2014-02-20T16:05:05.015+08:00| vmx| I120: UUID: location-UUID is 56 4d 7d c0 55 74 13 16-42 aa d0 b9 da c9 5a 8f
+2014-02-20T16:05:05.015+08:00| vmx| I120: UUID: Writing uuid.bios value: '56 4d 7d c0 55 74 13 16-42 aa d0 b9 da c9 5a 8f'
+2014-02-20T16:05:05.015+08:00| vmx| I120: UUID: Writing uuid.location value: '56 4d 7d c0 55 74 13 16-42 aa d0 b9 da c9 5a 8f'
+2014-02-20T16:05:05.015+08:00| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Ubuntu 64 位.vmx~): The system cannot find the file specified (2)
+2014-02-20T16:05:05.062+08:00| vmx| I120: AIOGNRC: numThreads=17 ide=0, scsi=1, passthru=0
+2014-02-20T16:05:05.062+08:00| vmx| I120: WORKER: Creating new group with numThreads=17 (17)
+2014-02-20T16:05:05.062+08:00| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Ubuntu 64 位.vmx~): The system cannot find the file specified (2)
+2014-02-20T16:05:05.078+08:00| vmx| I120: StateLogger::Replay State = 0
+2014-02-20T16:05:05.078+08:00| vmx| I120: StateLogger::minDEThreshold: 115
+2014-02-20T16:05:05.078+08:00| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Ubuntu 64 位.vmx~): The system cannot find the file specified (2)
+2014-02-20T16:05:05.140+08:00| vmx| I120: WORKER: Creating new group with numThreads=1 (18)
+2014-02-20T16:05:05.140+08:00| vmx| I120: MainMem: Insufficient resources for lazy save. Disabled.
+2014-02-20T16:05:05.140+08:00| vmx| I120: MainMem: CPT Host WZ=0 SOR=1 PF=1552 D=0
+2014-02-20T16:05:05.140+08:00| vmx| I120: MainMem: CPT PLS=0 PLR=1 BS=1 BufM=0 BlkP=32 Mult=4 W=50
+2014-02-20T16:05:05.140+08:00| vmx| I120: UUID: location-UUID is 56 4d 7d c0 55 74 13 16-42 aa d0 b9 da c9 5a 8f
+2014-02-20T16:05:05.171+08:00| vmx| I120: MainMem: Opened paging file, 'D:\564d7dc0-5574-1316-42aa-d0b9dac95a8f.vmem'.
+2014-02-20T16:05:05.171+08:00| vmx| I120: MStat: Creating Stat vm.uptime
+2014-02-20T16:05:05.171+08:00| vmx| I120: MStat: Creating Stat vm.suspendTime
+2014-02-20T16:05:05.171+08:00| vmx| I120: MStat: Creating Stat vm.powerOnTimeStamp
+2014-02-20T16:05:05.171+08:00| aioCompletion| I120: VTHREAD start thread 6 "aioCompletion" host id 2644
+2014-02-20T16:05:05.171+08:00| vmx| I120: VMXAIOMGR: Using: simple=Generic unbuf=Compl
+2014-02-20T16:05:05.171+08:00| vmx| I120: WORKER: Creating new group with numThreads=1 (19)
+2014-02-20T16:05:05.187+08:00| vmx| I120: WORKER: Creating new group with numThreads=16 (35)
+2014-02-20T16:05:05.187+08:00| Worker#0| I120: DISK: OPEN scsi0:0 'D:\Ubuntu 64 位.vmdk' 永久 R[]
+2014-02-20T16:05:05.187+08:00| vthread-7| I120: VTHREAD start thread 7 "vthread-7" host id 2712
+2014-02-20T16:05:05.296+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [0]: "Ubuntu 64 位-s001.vmdk" (0xa)
+2014-02-20T16:05:05.312+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [1]: "Ubuntu 64 位-s002.vmdk" (0xa)
+2014-02-20T16:05:05.328+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [2]: "Ubuntu 64 位-s003.vmdk" (0xa)
+2014-02-20T16:05:05.343+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [3]: "Ubuntu 64 位-s004.vmdk" (0xa)
+2014-02-20T16:05:05.359+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [4]: "Ubuntu 64 位-s005.vmdk" (0xa)
+2014-02-20T16:05:05.375+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [5]: "Ubuntu 64 位-s006.vmdk" (0xa)
+2014-02-20T16:05:05.390+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [6]: "Ubuntu 64 位-s007.vmdk" (0xa)
+2014-02-20T16:05:05.390+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [7]: "Ubuntu 64 位-s008.vmdk" (0xa)
+2014-02-20T16:05:05.406+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [8]: "Ubuntu 64 位-s009.vmdk" (0xa)
+2014-02-20T16:05:05.421+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [9]: "Ubuntu 64 位-s010.vmdk" (0xa)
+2014-02-20T16:05:05.437+08:00| Worker#0| I120: DISKLIB-DSCPTR: Opened [10]: "Ubuntu 64 位-s011.vmdk" (0xa)
+2014-02-20T16:05:05.437+08:00| Worker#0| I120: DISKLIB-LINK  : Opened 'D:\Ubuntu 64 位.vmdk' (0xa): twoGbMaxExtentSparse, 41943040 sectors / 20 GB.
+2014-02-20T16:05:05.437+08:00| Worker#0| I120: DISKLIB-LIB   : Opened "D:\Ubuntu 64 位.vmdk" (flags 0xa, type twoGbMaxExtentSparse).
+2014-02-20T16:05:05.437+08:00| Worker#0| I120: DiskGetGeometry: Reading of disk partition table
+2014-02-20T16:05:05.453+08:00| Worker#0| I120: DISK: Disk 'D:\Ubuntu 64 位.vmdk' has UUID '60 00 c2 96 70 10 a0 04-71 72 28 f5 57 55 e4 39'
+2014-02-20T16:05:05.453+08:00| Worker#0| I120: DISK: OPEN 'D:\Ubuntu 64 位.vmdk' Geo (2610/255/63) BIOS Geo (0/0/0)
+2014-02-20T16:05:05.593+08:00| Worker#0| I120: DISKUTILWIN32: DiskUtilW32IsATASSDDevice: Reported rotation rate = 7200
+2014-02-20T16:05:05.593+08:00| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Ubuntu 64 位.vmx~): The system cannot find the file specified (2)
+2014-02-20T16:05:05.765+08:00| vmx| I120: DISK: Opening disks took 572 ms.
+2014-02-20T16:05:05.765+08:00| vmx| I120: TimeTracker host to guest rate conversion 26883197537 @ 3092974000Hz -> 0 @ 3092974000Hz
+2014-02-20T16:05:05.765+08:00| vmx| I120: TimeTracker host to guest rate conversion ((x * 2147483648) >> 31) + -26883197537
+2014-02-20T16:05:05.765+08:00| vmx| I120: timeTracker.globalProgressMaxAllowanceMS: 2000
+2014-02-20T16:05:05.765+08:00| vmx| I120: timeTracker.globalProgressToAllowanceNS: 1000
+2014-02-20T16:05:05.843+08:00| vmx| I120: USB: Initializing 'Virtual Hub' backend
+2014-02-20T16:05:05.843+08:00| vmx| I120: USB: Initializing 'Generic' backend
+2014-02-20T16:05:05.859+08:00| vmx| I120: USBGW: Write arbitrator op:15 len:4
+2014-02-20T16:05:05.859+08:00| vmx| I120: USBGW: Write arbitrator op:0 len:4
+2014-02-20T16:05:05.859+08:00| vmx| I120: USBGW: Write arbitrator op:27 len:46
+2014-02-20T16:05:05.859+08:00| vmx| I120: USBGW: Write arbitrator op:13 len:18
+2014-02-20T16:05:05.859+08:00| vmx| I120: USB: Initializing 'Virtual HID' backend
+2014-02-20T16:05:05.875+08:00| sensorThread| I120: VTHREAD start thread 8 "sensorThread" host id 3952
+2014-02-20T16:05:05.875+08:00| vmx| I120: USB: Initializing 'Remote Device' backend
+2014-02-20T16:05:05.875+08:00| vmx| I120: RemoteUSBVMX: Retrieved hostId [00 60 5d 31 7b df e1 11-00 00 80 c1 6e f5 b1 62]
+2014-02-20T16:05:05.875+08:00| vmx| I120: RemoteUSBVMX: Protocol version min:15 current:16
+2014-02-20T16:05:05.875+08:00| vmx| I120: RemoteUSBVMX: no delay setting is TRUE.
+2014-02-20T16:05:05.875+08:00| vmx| I120: USB: Initializing 'Virtual Mass Storage' backend
+2014-02-20T16:05:05.875+08:00| vmx| I120: USB: Initializing 'Virtual CCID' backend
+2014-02-20T16:05:05.890+08:00| sensorThread| W110: SensorLib: Failed to create instace of ISensorManager: Class not registered (80040154)
+2014-02-20T16:05:05.890+08:00| vmx| I120: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2014-02-20T16:05:05.890+08:00| vmx| I120: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2014-02-20T16:05:05.890+08:00| usbCCIDEnumCards| I120: VTHREAD start thread 9 "usbCCIDEnumCards" host id 2640
+2014-02-20T16:05:05.890+08:00| vmx| I120: USB: Initializing 'Virtual Bluetooth' backend
+2014-02-20T16:05:05.890+08:00| usbCCIDEnumCards| I120: USB-CCID: Card enum thread created.
+2014-02-20T16:05:05.890+08:00| vmx| I120: USB: Initializing 'Virtual Audio' backend
+2014-02-20T16:05:05.906+08:00| vmx| I120: USBGW: Skipping disk backing for file (D:\Ubuntu 64 位.vmx).
+2014-02-20T16:05:05.906+08:00| vmx| I120: USBGW: Skipping disk backing for file (D:\Ubuntu 64 位.vmdk).
+2014-02-20T16:05:05.906+08:00| vmx| I120: USBGW: Skipping disk backing for file (D:\Ubuntu 64 位.vmsd).
+2014-02-20T16:05:05.906+08:00| usbCCIDEnumCards| I120: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2014-02-20T16:05:05.906+08:00| vmx| I120: MKS PowerOn
+2014-02-20T16:05:05.906+08:00| mks| I120: VTHREAD start thread 1 "mks" host id 3960
+2014-02-20T16:05:05.906+08:00| mks| I120: MKS thread is alive
+2014-02-20T16:05:05.953+08:00| mksInput| I120: VTHREAD start thread 10 "mksInput" host id 1324
+2014-02-20T16:05:05.953+08:00| mouse| I120: VTHREAD start thread 11 "mouse" host id 3236
+2014-02-20T16:05:05.953+08:00| kbh| I120: VTHREAD start thread 12 "kbh" host id 2724
+2014-02-20T16:05:06.000+08:00| mks| I120: VMIOP: Unable to load plugin C:\Program Files\VMware\VMware Workstation\vmioPlugins\svga3d.dll (The specified module could not be found).
+2014-02-20T16:05:06.000+08:00| mks| I120: MKSWin32: Registering top level window (0x40604) to receive session change notification.
+2014-02-20T16:05:06.984+08:00| mks| I120: D3D-Backend: successfully started by renderMux to do screen composition.
+2014-02-20T16:05:06.984+08:00| mks| I120: MKS-RenderMux: Collecting RenderOps caps...
+2014-02-20T16:05:06.984+08:00| mks| I120: D3D-Backend: stopped by renderMux to do screen composition.
+2014-02-20T16:05:07.015+08:00| mks| I120: KHBKL: Unable to parse keystring at: ''
+2014-02-20T16:05:07.015+08:00| mks| I120: MKS-RemoteMgr: Set default display name: Ubuntu 64 位
+2014-02-20T16:05:07.015+08:00| mks| I120: MKS-RemoteMgr: Loading VNC Configuration from VM config file
+2014-02-20T16:05:07.015+08:00| mks| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Documents and Settings\All Users\Application Data\VMware): Cannot create a file when that file already exists (183)
+2014-02-20T16:05:07.046+08:00| vmx| I120: VLANCE: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks
+2014-02-20T16:05:07.046+08:00| vmx| I120: VMXNET: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks, dontClusterSize is 128
+2014-02-20T16:05:07.062+08:00| vmx| I120: NetPkt: checksum cycles/kB: C=25 asm1=578 asm2=524
+2014-02-20T16:05:07.062+08:00| vmx| I120: NetPkt: copy and sum cycles/kB: C=993 asm1=555 asm2=517
+2014-02-20T16:05:07.062+08:00| vmx| I120: Chipset version: 0x17
+2014-02-20T16:05:07.078+08:00| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Ubuntu 64 位.vmx~): The system cannot find the file specified (2)
+2014-02-20T16:05:07.125+08:00| vmx| I120: SCSI: scsi0: intr coalescing: on period=50msec cifTh=4 iopsTh=2000 hlt=0
+2014-02-20T16:05:07.140+08:00| vmx| I120: SCSI0: UNTAGGED commands will be converted to ORDER tags.
+2014-02-20T16:05:07.140+08:00| vmx| I120: SCSI DEVICE (scsi0:0): Computed value of scsi0:0.useBounceBuffers: always
+2014-02-20T16:05:07.140+08:00| vmx| I120: DISKUTIL: scsi0:0 : capacity=41943040
+2014-02-20T16:05:07.140+08:00| vmx| I120: DISKUTIL: scsi0:0 : geometry=2610/255/63
+2014-02-20T16:05:07.140+08:00| vmx| I120: SVGA: Device capabilities 0x01ffc3e2
+2014-02-20T16:05:07.156+08:00| vmx| I120: SVGA: Maximum display topology 3840x1920.
+2014-02-20T16:05:07.156+08:00| vmx| I120: SVGA: Number of displays 2
+2014-02-20T16:05:07.156+08:00| vmx| I120: SVGA: Maximum display topology 3840x1920.
+2014-02-20T16:05:07.156+08:00| vmx| I120: SVGA: FIFO capabilities 0x0000077f
+2014-02-20T16:05:07.156+08:00| vmx| I120: MKS3dCaps: host, at power on
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  0]: 0x00000001 (3D)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  1]: 0x00000008 (MAX_LIGHTS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  2]: 0x00000008 (MAX_TEXTURES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  3]: 0x00000008 (MAX_CLIP_PLANES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  4]: 0x00000007 (VERTEX_SHADER_VERSION)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  5]: 0x00000001 (VERTEX_SHADER)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  6]: 0x0000000d (FRAGMENT_SHADER_VERSION)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  7]: 0x00000001 (FRAGMENT_SHADER)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  8]: 0x00000004 (MAX_RENDER_TARGETS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  9]: 0x00000001 (S23E8_TEXTURES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 10]: 0x00000001 (S10E5_TEXTURES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 11]: 0x00000004 (MAX_FIXED_VERTEXBLEND)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 12]: 0x00000001 (D16_BUFFER_FORMAT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 13]: 0x00000001 (D24S8_BUFFER_FORMAT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 14]: 0x00000001 (D24X8_BUFFER_FORMAT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 15]: 0x00000001 (QUERY_TYPES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 16]: 0x00000001 (TEXTURE_GRADIENT_SAMPLING)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 17]: 8192.000000 (MAX_POINT_SIZE)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 18]: 0x00000014 (MAX_SHADER_TEXTURES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 19]: 0x00002000 (MAX_TEXTURE_WIDTH)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 20]: 0x00002000 (MAX_TEXTURE_HEIGHT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 21]: 0x00000800 (MAX_VOLUME_EXTENT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 22]: 0x00002000 (MAX_TEXTURE_REPEAT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 23]: 0x00002000 (MAX_TEXTURE_ASPECT_RATIO)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 24]: 0x00000010 (MAX_TEXTURE_ANISOTROPY)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 25]: 0x007fffff (MAX_PRIMITIVE_COUNT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 26]: 0x00ffffff (MAX_VERTEX_INDEX)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 27]: 0x0000ffff (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 28]: 0x0000ffff (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 29]: 0x00000020 (MAX_VERTEX_SHADER_TEMPS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 30]: 0x00000020 (MAX_FRAGMENT_SHADER_TEMPS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 31]: 0x03fbffff (TEXTURE_OPS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 32]: 0x0018ec1f (SURFACEFMT_X8R8G8B8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 33]: 0x0018e11f (SURFACEFMT_A8R8G8B8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 34]: 0x0008601f (SURFACEFMT_A2R10G10B10)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 35]: 0x0008e01f (SURFACEFMT_X1R5G5B5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 36]: 0x0008e107 (SURFACEFMT_A1R5G5B5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 37]: 0x0000e107 (SURFACEFMT_A4R4G4B4)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 38]: 0x0008ec1f (SURFACEFMT_R5G6B5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 39]: 0x0000000f (SURFACEFMT_LUMINANCE16)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 40]: 0x00008007 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 41]: 0x00000007 (SURFACEFMT_ALPHA8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 42]: 0x0000800f (SURFACEFMT_LUMINANCE8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 43]: 0x000000c1 (SURFACEFMT_Z_D16)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 44]: 0x000000c1 (SURFACEFMT_Z_D24S8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 45]: 0x000000c1 (SURFACEFMT_Z_D24X8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 46]: 0x00008005 (SURFACEFMT_DXT1)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 47]: 0x00008005 (SURFACEFMT_DXT2)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 48]: 0x00008005 (SURFACEFMT_DXT3)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 49]: 0x00008005 (SURFACEFMT_DXT4)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 50]: 0x00008005 (SURFACEFMT_DXT5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 51]: 0x00010001 (SURFACEFMT_BUMPX8L8V8U8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 52]: 0x01240000 (SURFACEFMT_A2W10V10U10)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 53]: 0x00010001 (SURFACEFMT_BUMPU8V8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 54]: 0x00000005 (SURFACEFMT_Q8W8V8U8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 55]: 0x01240000 (SURFACEFMT_CxV8U8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 56]: 0x0080401f (SURFACEFMT_R_S10E5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 57]: 0x0080401f (SURFACEFMT_R_S23E8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 58]: 0x0080401f (SURFACEFMT_RG_S10E5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 59]: 0x0080401f (SURFACEFMT_RG_S23E8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 60]: 0x0080601f (SURFACEFMT_ARGB_S10E5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 61]: 0x0080601f (SURFACEFMT_ARGB_S23E8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 62]: 0x00000000 (MISSING62)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 63]: 0x00000004 (MAX_VERTEX_SHADER_TEXTURES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 64]: 0x00000004 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 65]: 0x00000007 (SURFACEFMT_V16U16)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 66]: 0x0020401f (SURFACEFMT_G16R16)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 67]: 0x0020601f (SURFACEFMT_A16B16G16R16)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 68]: 0x01246000 (SURFACEFMT_UYVY)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 69]: 0x01246000 (SURFACEFMT_YUY2)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 70]: 0x00000008 (MULTISAMPLE_NONMASKABLESAMPLES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 71]: 0x0000008b (MULTISAMPLE_MASKABLESAMPLES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 72]: 0x00000001 (ALPHATOCOVERAGE)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 73]: 0x00000001 (SUPERSAMPLE)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 74]: 0x00000001 (AUTOGENMIPMAPS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 75]: 0x01246000 (SURFACEFMT_NV12)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 76]: 0x01244000 (SURFACEFMT_AYUV)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 77]: 0x00000100 (MAX_CONTEXT_IDS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 78]: 0x00008000 (MAX_SURFACE_IDS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 79]: 0x01240000 (SURFACEFMT_Z_DF16)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 80]: 0x01240000 (SURFACEFMT_Z_DF24)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 81]: 0x000000c1 (SURFACEFMT_Z_D24S8_INT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 82]: 0x00000005 (SURFACEFMT_BC4_UNORM)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 83]: 0x00000005 (SURFACEFMT_BC5_UNORM)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 84]: 0x00000000 (VGPU10)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 85]: 0x00000000 (VIDEO_DECODE)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 86]: 0x00000000 (VIDEO_PROCESS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 87]: 0x00000000 (LINE_AA)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 89]:   0.000000 (MAX_LINE_WIDTH)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 90]:   0.000000 (MAX_AA_LINE_WIDTH)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 91]: 0x01246000 (SURFACEFMT_YV12)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 92]: 0x00000000 (LOGICOPS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 93]: 0x00000000 (SCREENTARGETS)
+2014-02-20T16:05:07.156+08:00| vmx| I120: MKS3dCaps: guest, compatibility level: No-Clamping
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  0]: 0x00000001 (3D)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  1]: 0x00000008 (MAX_LIGHTS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  2]: 0x00000008 (MAX_TEXTURES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  3]: 0x00000008 (MAX_CLIP_PLANES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  4]: 0x00000007 (VERTEX_SHADER_VERSION)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  5]: 0x00000001 (VERTEX_SHADER)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  6]: 0x0000000d (FRAGMENT_SHADER_VERSION)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  7]: 0x00000001 (FRAGMENT_SHADER)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  8]: 0x00000004 (MAX_RENDER_TARGETS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[  9]: 0x00000001 (S23E8_TEXTURES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 10]: 0x00000001 (S10E5_TEXTURES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 11]: 0x00000004 (MAX_FIXED_VERTEXBLEND)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 12]: 0x00000001 (D16_BUFFER_FORMAT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 13]: 0x00000001 (D24S8_BUFFER_FORMAT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 14]: 0x00000001 (D24X8_BUFFER_FORMAT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 15]: 0x00000001 (QUERY_TYPES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 16]: 0x00000001 (TEXTURE_GRADIENT_SAMPLING)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 17]: 8192.000000 (MAX_POINT_SIZE)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 18]: 0x00000014 (MAX_SHADER_TEXTURES)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 19]: 0x00002000 (MAX_TEXTURE_WIDTH)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 20]: 0x00002000 (MAX_TEXTURE_HEIGHT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 21]: 0x00000800 (MAX_VOLUME_EXTENT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 22]: 0x00002000 (MAX_TEXTURE_REPEAT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 23]: 0x00002000 (MAX_TEXTURE_ASPECT_RATIO)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 24]: 0x00000010 (MAX_TEXTURE_ANISOTROPY)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 25]: 0x007fffff (MAX_PRIMITIVE_COUNT)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 26]: 0x00ffffff (MAX_VERTEX_INDEX)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 27]: 0x0000ffff (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 28]: 0x0000ffff (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 29]: 0x00000020 (MAX_VERTEX_SHADER_TEMPS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 30]: 0x00000020 (MAX_FRAGMENT_SHADER_TEMPS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 31]: 0x03fbffff (TEXTURE_OPS)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 32]: 0x0018ec1f (SURFACEFMT_X8R8G8B8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 33]: 0x0018e11f (SURFACEFMT_A8R8G8B8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 34]: 0x0008601f (SURFACEFMT_A2R10G10B10)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 35]: 0x0008e01f (SURFACEFMT_X1R5G5B5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 36]: 0x0008e107 (SURFACEFMT_A1R5G5B5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 37]: 0x0000e107 (SURFACEFMT_A4R4G4B4)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 38]: 0x0008ec1f (SURFACEFMT_R5G6B5)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 39]: 0x0000000f (SURFACEFMT_LUMINANCE16)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 40]: 0x00008007 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 41]: 0x00000007 (SURFACEFMT_ALPHA8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 42]: 0x0000800f (SURFACEFMT_LUMINANCE8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 43]: 0x000000c1 (SURFACEFMT_Z_D16)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 44]: 0x000000c1 (SURFACEFMT_Z_D24S8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 45]: 0x000000c1 (SURFACEFMT_Z_D24X8)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 46]: 0x00008005 (SURFACEFMT_DXT1)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 47]: 0x00008005 (SURFACEFMT_DXT2)
+2014-02-20T16:05:07.156+08:00| vmx| I120:   cap[ 48]: 0x00008005 (SURFACEFMT_DXT3)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 49]: 0x00008005 (SURFACEFMT_DXT4)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 50]: 0x00008005 (SURFACEFMT_DXT5)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 51]: 0x00010001 (SURFACEFMT_BUMPX8L8V8U8)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 52]: 0x01240000 (SURFACEFMT_A2W10V10U10)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 53]: 0x00010001 (SURFACEFMT_BUMPU8V8)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 54]: 0x00000005 (SURFACEFMT_Q8W8V8U8)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 55]: 0x01240000 (SURFACEFMT_CxV8U8)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 56]: 0x0080401f (SURFACEFMT_R_S10E5)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 57]: 0x0080401f (SURFACEFMT_R_S23E8)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 58]: 0x0080401f (SURFACEFMT_RG_S10E5)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 59]: 0x0080401f (SURFACEFMT_RG_S23E8)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 60]: 0x0080601f (SURFACEFMT_ARGB_S10E5)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 61]: 0x0080601f (SURFACEFMT_ARGB_S23E8)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 62]: 0x00000000 (MISSING62)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 63]: 0x00000004 (MAX_VERTEX_SHADER_TEXTURES)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 64]: 0x00000004 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 65]: 0x00000007 (SURFACEFMT_V16U16)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 66]: 0x0020401f (SURFACEFMT_G16R16)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 67]: 0x0020601f (SURFACEFMT_A16B16G16R16)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 68]: 0x01246000 (SURFACEFMT_UYVY)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 69]: 0x01246000 (SURFACEFMT_YUY2)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 70]: 0x00000008 (MULTISAMPLE_NONMASKABLESAMPLES)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 71]: 0x0000008b (MULTISAMPLE_MASKABLESAMPLES)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 72]: 0x00000001 (ALPHATOCOVERAGE)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 73]: 0x00000001 (SUPERSAMPLE)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 74]: 0x00000001 (AUTOGENMIPMAPS)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 75]: 0x01246000 (SURFACEFMT_NV12)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 76]: 0x01244000 (SURFACEFMT_AYUV)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 77]: 0x00000100 (MAX_CONTEXT_IDS)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 78]: 0x00008000 (MAX_SURFACE_IDS)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 79]: 0x01240000 (SURFACEFMT_Z_DF16)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 80]: 0x01240000 (SURFACEFMT_Z_DF24)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 81]: 0x000000c1 (SURFACEFMT_Z_D24S8_INT)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 82]: 0x00000005 (SURFACEFMT_BC4_UNORM)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 83]: 0x00000005 (SURFACEFMT_BC5_UNORM)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 84]: 0x00000000 (VGPU10)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 85]: 0x00000000 (VIDEO_DECODE)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 86]: 0x00000000 (VIDEO_PROCESS)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 87]: 0x00000000 (LINE_AA)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 89]:   0.000000 (MAX_LINE_WIDTH)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 90]:   0.000000 (MAX_AA_LINE_WIDTH)
+2014-02-20T16:05:07.171+08:00| vmx| I120:   cap[ 91]: 0x01246000 (SURFACEFMT_YV12)
+2014-02-20T16:05:07.171+08:00| svga| I120: VTHREAD start thread 13 "svga" host id 2260
+2014-02-20T16:05:07.171+08:00| svga| I120: SVGA thread is alive
+2014-02-20T16:05:07.171+08:00| vmx| I120: USB: Initializing 'UHCI' host controller
+2014-02-20T16:05:07.171+08:00| vmx| I120: Ethernet0 MAC Address: 00:0c:29:c9:5a:8f
+2014-02-20T16:05:07.171+08:00| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Ubuntu 64 位.vmx~): The system cannot find the file specified (2)
+2014-02-20T16:05:07.234+08:00| vmx| I120: USB: Initializing 'EHCI' host controller
+2014-02-20T16:05:07.234+08:00| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Ubuntu 64 位.vmx~): The system cannot find the file specified (2)
+2014-02-20T16:05:07.296+08:00| vmx| I120: AHCI:Successfully created adapter: sata0, num: 0
+2014-02-20T16:05:07.296+08:00| vmx| I120: SCSI DEVICE (sata0:0): Computed value of sata0:0.useBounceBuffers: always
+2014-02-20T16:05:07.296+08:00| vmx| I120: DISKUTIL: sata0:0 : capacity=0
+2014-02-20T16:05:07.296+08:00| vmx| I120: DISKUTIL: sata0:0 : geometry=0/0/0
+2014-02-20T16:05:07.296+08:00| vmx| I120: AHCI:Creating ATAPI CDROM on SATA adapter.
+2014-02-20T16:05:07.296+08:00| vmx| I120: AHCI:Successfully created device: sata0:0
+2014-02-20T16:05:07.296+08:00| vmx| I120: SCSI DEVICE (sata0:1): Computed value of sata0:1.useBounceBuffers: always
+2014-02-20T16:05:07.296+08:00| vmx| I120: DISKUTIL: sata0:1 : capacity=0
+2014-02-20T16:05:07.296+08:00| vmx| I120: DISKUTIL: sata0:1 : geometry=0/0/0
+2014-02-20T16:05:07.296+08:00| vmx| I120: AHCI:Creating ATAPI CDROM on SATA adapter.
+2014-02-20T16:05:07.296+08:00| vmx| I120: AHCI:Successfully created device: sata0:1
+2014-02-20T16:05:07.296+08:00| vmx| I120: WORKER: Creating new group with numThreads=1 (36)
+2014-02-20T16:05:07.296+08:00| vmx| I120: DISKUTIL: (null) : max toolsVersion = 0
+2014-02-20T16:05:07.296+08:00| vmx| I120: DISKUTIL: Offline toolsVersion = 0
+2014-02-20T16:05:07.296+08:00| vmx| I120: TOOLS setting legacy tools version to '0', manifest status is 9
+2014-02-20T16:05:07.296+08:00| vmx| I120: VMXVmdb_SetToolsVersionStatus: status value set to 'noTools', 'noTools', install possible
+2014-02-20T16:05:07.296+08:00| vmx| I120: VMXVmdb_SetToolsVersionStatus: status value set to 'noTools', 'noTools', install possible
+2014-02-20T16:05:07.296+08:00| vmx| I120: TOOLS INSTALL initializing state to IDLE on power on.
+2014-02-20T16:05:07.296+08:00| vmx| W110: NVRAMMGR: No valid NVRAM file found, will create default NVRAM.
+2014-02-20T16:05:07.343+08:00| vmx| W110: NUMA and VCPU hot add are incompatible.  Forcing UMA
+2014-02-20T16:05:07.343+08:00| vmx| I120: FeatureCompat: VM masks:
+2014-02-20T16:05:07.343+08:00| vmx| I120: MonPmc: ctrBase 0x4c1 selBase 0x186/1 PGC 1/1 SMM 1 drain 1 flush 0
+2014-02-20T16:05:07.343+08:00| vmx| I120+ MonPmc:   gen counters num: 8 width 48 write width 48
+2014-02-20T16:05:07.343+08:00| vmx| I120+ MonPmc:   fix counters num: 3 width 48
+2014-02-20T16:05:07.343+08:00| vmx| I120+ MonPmc:   unavailable counters: 0
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCpuFeatures = 0x2002f9
+2014-02-20T16:05:07.343+08:00| vmx| I120: Guest CPUID differences from hostCPUID.
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 00000001, 0: 0x000206a7 0x00010800 0x96ba0203 0x0fabfbff
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 00000004, 0: 0x00000121 0x01c0003f 0x0000003f 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 00000004, 1: 0x00000122 0x01c0003f 0x0000003f 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 00000004, 2: 0x00000143 0x01c0003f 0x000001ff 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 00000004, 3: 0x00000163 0x02c0003f 0x00001fff 0x00000006
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 0000000a, 0: 0x07300801 0x0000007f 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 0000000b, 0: 0x00000000 0x00000001 0x00000100 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 0000000b, 1: 0x00000000 0x00000001 0x00000201 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000000, 0: 0x40000010 0x61774d56 0x4d566572 0x65726177
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000001, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000002, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000004, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000006, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000007, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 4000000a, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 4000000b, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 4000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 4000000d, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 4000000e, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 4000000f, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 40000010, 0: 0x002f31ee 0x000101d0 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 80000001, 0: 0x00000000 0x00000000 0x00000000 0x08100000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 80000008, 0: 0x00003028 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: guestCPUID level 80000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2014-02-20T16:05:07.343+08:00| vmx| I120: Msg_Post: Error
+2014-02-20T16:05:07.343+08:00| vmx| I120: [msg.cpuid.noLongmode2] 已将该虚拟机配置为使用 64 位客户机操作系统。但是，无法执行 64 位操作。
+2014-02-20T16:05:07.343+08:00| vmx| I120+ 此主机支持 Intel VT-x，但 Intel VT-x 处于禁用状态。
+2014-02-20T16:05:07.343+08:00| vmx| I120+ 如果已在 BIOS/固件设置中禁用 Intel VT-x，或主机自更改此设置后从未重新启动，则 Intel VT-x 可能被禁用。
+2014-02-20T16:05:07.343+08:00| vmx| I120+ (1) 确认 BIOS/固件设置中启用了 Intel VT-x 并禁用了“可信执行”。
+2014-02-20T16:05:07.343+08:00| vmx| I120+ (2) 如果这两项 BIOS/固件设置有一项已更改，请重新启动主机。
+2014-02-20T16:05:07.343+08:00| vmx| I120+ (3) 如果您在安装 VMware Workstation 之后从未重新启动主机，请重新启动。
+2014-02-20T16:05:07.343+08:00| vmx| I120+ (4) 将主机的 BIOS/固件更新至最新版本。
+2014-02-20T16:05:07.343+08:00| vmx| I120+ For more detailed information, see http://vmware.com/info?id=152.
+2014-02-20T16:05:07.343+08:00| vmx| I120: ----------------------------------------
+2014-02-20T16:05:09.750+08:00| vmx| I120: Module CPUID power on failed.
+2014-02-20T16:05:09.750+08:00| vmx| I120: VMX_PowerOn: ModuleTable_PowerOn = 0
+2014-02-20T16:05:09.765+08:00| svga| I120: SVGA thread is exiting
+2014-02-20T16:05:09.765+08:00| mks| I120: MKS PowerOff
+2014-02-20T16:05:09.765+08:00| mks| I120: MKS thread is exiting
+2014-02-20T16:05:09.781+08:00| usbCCIDEnumCards| I120: USB-CCID: Card enum thread exiting.
+2014-02-20T16:05:09.781+08:00| vmx| I120: scsi0:0: numIOs = 1 numMergedIOs = 0 numSplitIOs = 0 ( 0.0%)
+2014-02-20T16:05:09.781+08:00| vmx| I120: Closing disk scsi0:0
+2014-02-20T16:05:09.937+08:00| vmx| I120: AIOWIN32C: asyncOps=1 syncOps=88 bufSize=0Kb fixedOps=0 sgOps=0 sgOn=1
+2014-02-20T16:05:09.937+08:00| aioCompletion| I120: AIO thread processed 1 completions
+2014-02-20T16:05:09.937+08:00| vmx| I120: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Ubuntu 64 位.vmx~): The system cannot find the file specified (2)
+2014-02-20T16:05:10.015+08:00| vmx| I120: Vix: [2032 mainDispatch.c:1222]: VMAutomationPowerOff: Powering off.
+2014-02-20T16:05:10.015+08:00| vmx| I120: Policy_SavePolicyFile: invalid arguments to function.
+2014-02-20T16:05:10.015+08:00| vmx| I120: PolicyVMX_Exit: Could not write out policies: 15.
+2014-02-20T16:05:10.015+08:00| vmx| I120: WORKER: asyncOps=3 maxActiveOps=2 maxPending=0 maxCompleted=2
+2014-02-20T16:05:10.015+08:00| WinNotifyThread| I120: WinNotify thread exiting
+2014-02-20T16:05:10.015+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2014-02-20T16:05:10.015+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2014-02-20T16:05:10.015+08:00| vmx| I120: Transitioned vmx/execState/val to poweredOff
+2014-02-20T16:05:10.015+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=0 additionalError=0
+2014-02-20T16:05:10.015+08:00| vmx| I120: Vix: [2032 mainDispatch.c:4024]: Error VIX_E_FAIL in VMAutomation_ReportPowerOpFinished(): 未知错误
+2014-02-20T16:05:10.015+08:00| vmx| I120: Vix: [2032 mainDispatch.c:3985]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2014-02-20T16:05:10.015+08:00| vmx| I120: Transitioned vmx/execState/val to poweredOff
+2014-02-20T16:05:10.015+08:00| vmx| I120: VMIOP: Exit
+2014-02-20T16:05:10.015+08:00| vmx| I120: Vix: [2032 mainDispatch.c:861]: VMAutomation_LateShutdown()
+2014-02-20T16:05:10.015+08:00| vmx| I120: Vix: [2032 mainDispatch.c:811]: VMAutomationCloseListenerSocket. Closing listener socket.
+2014-02-20T16:05:10.015+08:00| vmx| I120: Flushing VMX VMDB connections
+2014-02-20T16:05:10.015+08:00| vmx| I120: VmdbDbRemoveCnx: Removing Cnx from Db for '/db/connection/#1/'
+2014-02-20T16:05:10.015+08:00| vmx| I120: VmdbCnxDisconnect: Disconnect: closed pipe for pub cnx '/db/connection/#1/' (0)
+2014-02-20T16:05:10.015+08:00| vmx| I120: VMX exit (0).
+2014-02-20T16:05:10.031+08:00| vmx| I120: AIOMGR-S : stat o=2 r=6 w=0 i=0 br=98304 bw=0
+2014-02-20T16:05:10.031+08:00| vmx| I120: OBJLIB-LIB: ObjLib cleanup done.
+2014-02-20T16:05:10.031+08:00| vmx| I120: FileTrack_Exit: done

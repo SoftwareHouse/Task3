@@ -8,16 +8,16 @@ using namespace std;
 class AbstractIterator
 {
 public:
-	virtual string Next();
-	virtual string First();
-	virtual bool IsEnd();
+	virtual string Next()=0;
+	virtual string First()=0;
+	virtual bool IsEnd()=0;
 };
 
 class AbstractFile
 { 
 public:
-	virtual void Open();
-	virtual void Close();
+	virtual void Open()=0;
+	virtual void Close()=0;
 };
 
 class ConcreateFile:public AbstractFile
@@ -25,7 +25,6 @@ class ConcreateFile:public AbstractFile
 public:
 	ifstream in;
 public:
-	ConcreateIterator* CreateIterator();
 	void Open();
 	void Close();
 };
@@ -35,7 +34,6 @@ class ConcreateBeFile:public AbstractFile
 public:
 	ifstream in;
 public:
-	ConcreateBeIterator* CreateIterator();
 	void Open();
 	void Close();
 };
@@ -44,23 +42,29 @@ class ConcreateIterator:public AbstractIterator
 {
 private:
 	double prematch;
+	bool isFirst;
+public:
 	ConcreateFile ConFile;
 
 public:
-	ConcreateIterator(ConcreateFile ConFile);
+	ConcreateIterator();
 	string Next();
 	string First();
 	bool IsEnd();
+	void Compare(string str, string Bestr);
+	bool IsEmpty();
+	double Back_Match();
 };
 
 class ConcreateBeIterator:public AbstractIterator
 {
 private:
 	double prematch;
+public:
 	ConcreateBeFile ConFile;
 
 public:
-	ConcreateBeIterator(ConcreateBeFile ConFile);
+	ConcreateBeIterator();
 	string Next();
 	string First();
 	bool IsEnd();
