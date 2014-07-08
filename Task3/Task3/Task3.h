@@ -22,7 +22,7 @@ public:
 
 class ConcreateFile:public AbstractFile
 {
-private:
+public:
 	ifstream in;
 public:
 	ConcreateIterator* CreateIterator();
@@ -32,7 +32,7 @@ public:
 
 class ConcreateBeFile:public AbstractFile
 {
-private:
+public:
 	ifstream in;
 public:
 	ConcreateBeIterator* CreateIterator();
@@ -43,6 +43,7 @@ public:
 class ConcreateIterator:public AbstractIterator
 {
 private:
+	double prematch;
 	ConcreateFile ConFile;
 
 public:
@@ -55,6 +56,7 @@ public:
 class ConcreateBeIterator:public AbstractIterator
 {
 private:
+	double prematch;
 	ConcreateBeFile ConFile;
 
 public:

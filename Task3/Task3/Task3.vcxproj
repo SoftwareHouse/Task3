@@ -76,6 +76,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Task3.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ConcreateBeFile.cpp" />
+    <ClCompile Include="ConcreateBeIterator.cpp" />
+    <ClCompile Include="ConcreateFile.cpp" />
+    <ClCompile Include="ConcreateIterator.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
