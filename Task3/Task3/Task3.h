@@ -42,7 +42,11 @@ class ConcreateIterator:public AbstractIterator
 {
 private:
 	double prematch;
+	int tmp_max;
 	bool isFirst;
+	int Times;
+	int dis_min;
+	double match;
 public:
 	ConcreateFile ConFile;
 
@@ -54,6 +58,7 @@ public:
 	void Compare(string str, string Bestr);
 	bool IsEmpty();
 	double Back_Match();
+	void Init();
 };
 
 class ConcreateBeIterator:public AbstractIterator
