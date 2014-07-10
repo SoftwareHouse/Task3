@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>实验报告</title>
+
+<style type="text/css">
+
+	h1#head{font-size: 300%; font-family: copyFonth; display: inline-block;}
+	@font-face
+	{
+	font-family: copyFonth;
+	src: url(eng.ttf); /* IE9+ */
+	}
+	h2{font-size: 150%; display: inline-block;}
+	h3{font-size: 200%;}
+	p{font-size: 150%;}
+
+</style>
+<body style="background-color: #FFFFCC;">
+    <center>
+    <h1 id="head">Experiment Report</h1>
+    </center>
+
+    <div id="1">
+    	<center>
+    	<h2>实验报告——19——2436——李祯禧</h2>
+    	
+    	</center>
+    </div>
+
+    <div style="margin-top: 100px;">
+    	<center>
+    		<h3>1.实验分析</h3>
+    	</center>
+    		<div style="width: 900px; margin-left: 23%;">
+    		<p>&nbsp &nbsp &nbsp 在这次实验操作中，主要有两大难点。</p>
+    		<p>&nbsp &nbsp &nbsp  首先是文件的读取存储。由于功能实现上的要求，我建立了2个文件，以及要求使用一个使用者输入相应地址的外部学生信息文件。文件读取第一点是要注意文件的打开方式问题，对于我所建立的两个文件，一个是用于确定当前参与评分人数的文件，一个是用于存储当前的评分结果的文件，这两个文件的打开方式均为 “r+” 。对于外部文件，我的打开方式为 “r” ，由于后续的数据都不在这个文件上存储，所以不要对这个文件进行写入数据，只需可读。打开文件时，当然还需要对文件是否成功打开进行检查。再对数据进行处理，到最后还需要关闭文件。</p>
+    		<p>&nbsp &nbsp &nbsp  其次是数据储存。实验代码中，我创建了一个链表，用于存储外部文件中不定数量的学生信息。还创建了一个给定大小的结构体的数组，用于存储每个学生的信息。由于学生数量一定，而外部文件所给信息数量不一定完全，所以分别用链表，数组来存储。在链表的使用中，需要注意的是每次建立节点时新空间的开辟，以及依据顺序对节点的插入，还有最后对开辟空间的释放。而固定的静态数组就没有太多需要顾虑的了。</p>
+    		</div>
+    </div>
+
+
+
+    <div style="margin-top: 100px;">
+    	<center>
+    		<h3>2.实验流程</h3>
+    		<img style="margin-top: 100px;" src="./ex.jpg">
+    	</center>
+    </div>
+
+    <div style="margin-top: 100px;">
+    	<center>
+    		<h3>3.代码调试——调试过程图片展示</h3>
+    		<div style="margin-top: 50px;"><img src=".\Debug image\1.jpg"></div>
+    		<div style="margin-top: 50px;"><img src=".\Debug image\2.jpg"></div>
+    		<div style="margin-top: 50px;"><img src=".\Debug image\3.jpg"></div>
+    		<div style="margin-top: 50px;"><img src=".\Debug image\4.jpg"></div>
+    		<div style="margin-top: 50px;"><img src=".\Debug image\5.jpg"></div>
+    		<div style="margin-top: 50px;"><img src=".\Debug image\6.jpg"></div>
+    		<div style="margin-top: 50px;"><img src=".\Debug image\7.jpg"></div>
+    		<div style="margin-top: 50px;"><img src=".\Debug image\8.jpg"></div>
+    		<div style="margin-top: 50px;"><img src=".\Debug image\9.jpg"></div>
+    	</center>
+    </div>
+
+</body>
+</html>

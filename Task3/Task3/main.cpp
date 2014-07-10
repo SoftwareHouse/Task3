@@ -15,6 +15,7 @@ int main()
 	while(!ConIter.IsEnd())
 	{
 		first = ConIter.Next();
+
 		ConBeIter.ConFile.in.clear();
 		ConBeIter.ConFile.in.seekg(0, ios_base::beg);
 		while(!ConBeIter.IsEnd())

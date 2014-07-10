@@ -31,6 +31,11 @@ string ConcreateBeIterator::Next()
 		ConFile.in.get(ch);
 	}
 
+	if(ConFile.in.eof())
+	{
+		flag = true;
+	}
+
 	do
 	{
 		while(ch != '\n' && !ConFile.in.eof())
@@ -58,6 +63,11 @@ string ConcreateBeIterator::First()
 	while(ch == '\n' && !ConFile.in.eof())
 	{
 		ConFile.in.get(ch);
+	}
+
+	if(ConFile.in.eof())
+	{
+		flag = true;
 	}
 
 	do
