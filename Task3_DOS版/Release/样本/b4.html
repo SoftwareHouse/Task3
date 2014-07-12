@@ -1,0 +1,312 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文�?/title>
+<style type="text/css">
+<!--
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #42413C;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* 删除上边距可以解决边距会超出其包含的 div 的问题。剩余的下边距可以使 div 与后面的任何元素保持一定距离�?*/
+	padding-right: 15px;
+gfdg
+gfdg
+gfdgfdgfd
+gfdgdf
+gfdgdfg
+dfgdfg
+dgdfgdfgdf
+adsad
+	color: #000;
+}
+a img { /* 此选择器将删除某些浏览器中显示在图像周围的默认蓝色边框（当该图像包含在链接中时�?*/
+	border: none;
+}
+
+/* ~~ 站点链接的样式必须保持此顺序，包括用于创建悬停效果的选择器组在内�?~~ */
+a:link {
+	color: #42413C;
+	text-decoration: underline; /* 除非将链接设置成极为独特的外观样式，否则最好提供下划线，以便可从视觉上快速识�?*/
+}
+a:visited {
+	color: #6E6C64;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* 此组选择器将为键盘导航者提供与鼠标使用者相同的悬停体验�?*/
+	text-decoration: none;
+}
+
+/* ~~ 此固定宽度容器包含所有其�?div ~~ */
+.container {
+	width: 960px;
+	background-color: #FFF;
+	margin: 0 auto; /* 侧边的自动值与宽度结合使用，可以将布局居中对齐 */
+	overflow: hidden; /* 此声明可�?.container 了解其内部浮动列的结束位置以及包含列的位�?*/
+}
+
+/* ~~ 以下是此布局的列�?~~ 
+
+1) 填充只会放置�?div 的顶部和/或底部。此 div 中的元素侧边会有填充。这样，您可以避免使用任何“方框模型数学”。请注意，如果向 div 自身添加任何侧边填充或边框，这些侧边填充或边框将与您定义的宽度相加，得出 *总计* 宽度。您也可以选择删除 div 中的元素的填充，并在该元素中另外放置一个没有任何宽度但具有设计所需填充�?div�?
+
+2) 由于这些列均为浮动列，因此未对其指定边距。如果必须添加边距，请避免在浮动方向一侧放置边距（例如：div 中的右边距设置为向右浮动）。在很多情况下，都可以改�fasfasf
+asfasfasfasasasf
+
+3) 由于可以在一个文档中多次使用类（并且一个元素可以应用多个类），因此已向这些列分配类名，而不�?ID。例如，必要时可堆叠两个侧栏 div。您可以根据个人偏好将这些名称轻松地改为 ID，前提是仅对每个文档使用一次�?
+
+4) 如果您更喜欢在右侧（而不是左侧）进行导航，只需使这些列向相反方向浮动（全部向右，而非全部向左），它们将按相反顺序显示。您无需�?HTML 源文件中移动 div�?
+
+*/
+.sidebar1 {
+	float: left;
+	width: 180px;
+	background-color: #EADCAE;
+	padding-bottom: 10px;
+}
+.content {
+
+	padding: 10px 0;
+	width: 780px;
+	float: left;
+}
+
+/* ~~ 此分组的选择器为 .content 区域中的列表提供了空�?~~ */
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px; /* 此填充反映上述标题和段落规则中的右填充。填充放置于下方可用于间隔列表中其它元素，置于左侧可用于创建缩进。您可以根据需要进行调整�?*/
+}
+
+/* ~~ 导航列表样式（如果选择使用预先创建�?Spry 等弹出菜单，则可以删除此样式�?~~ */
+ul.nav {
+	list-style: none; /* 这将删除列表标记 */
+	border-top: 1px solid #666; /* 这将为链接创建上边框 �?使用下边框将所有其它项放置�?LI �?*/
+	margin-bottom: 15px; /* 这将在下面内容的导航之间创建间距 */
+}
+ul.nav li {
+	border-bottom: 1px solid #666; /* 这将创建按钮间隔 */
+}
+ul.nav a, ul.nav a:visited { /* 对这些选择器进行分组可确保链接即使在访问之后也能保持其按钮外观 */
+	padding: 5px 5px 5px 15px;
+	display: block; /* 这将为链接赋予块属性，使其填满包含它的整个 LI。这样，整个区域都可以响应鼠标单击操作�?*/
+	width: 160px;  /*此宽度使整个按钮�?IE6 中可单击。如果您不需要支�?IE6，可以删除它。请用侧栏容器的宽度减去此链接的填充来计算正确的宽度�?*/
+	text-decoration: none;
+	background-color: #C6D580;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { /* 这将更改鼠标和键盘导航的背景和文本颜�?*/
+	background-color: #ADB96E;
+	color: #FFF;
+}
+
+/* ~~ 其它浮动/清除�?~~ */
+.fltrt {  /* 此类可用于在页面中使元素向右浮动。浮动元素必须位于其在页面上的相邻元素之前�?*/
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* 此类可用于在页面中使元素向左浮动。浮动元素必须位于其在页面上的相邻元素之前�?*/
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* 如果�?.container 中删除了 overflow:hidden，则可以将此类放置在 <br /> 或空 div 中，作为 #container 内最后一个浮�?div 之后的最终元�?*/
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+-->
+</style></head>
+
+<body>
+
+<div class="container">
+  <div class="content">
+    <p>#include&lt;stdio.h&gt;<br />
+      #include&lt;string.h&gt;<br />
+      #include&lt;stdlib.h&gt;<br />
+      #define SIZE 27<br />
+      struct Student<br />
+      {<br />
+      int num;//机位�?br />
+      char info[30];//以字符串形式储存的学生基本信�?br />
+      float score;//总分<br />
+    };//定义结构�?/p>
+    <p>int compare(struct Student a,struct Student b)//对结构体数组中的元素大小判断<br />
+      {<br />
+      if((int)a.info[0]&gt;(int)b.info[0])<br />
+      return 1;<br />
+      else if((int)a.info[0]&lt;(int)b.info[0])<br />
+      return 0;<br />
+      else<br />
+      {<br />
+      if((int)a.info[1]&gt;(int)b.info[1])<br />
+      return 1;<br />
+      else if((int)a.info[1]&lt;(int)b.info[1])<br />
+      return 0;<br />
+      }<br />
+      }<br />
+      void sort(struct Student stu[])//对结构体数组排序<br />
+      {<br />
+      int i,j;<br />
+      struct Student temp;<br />
+      for(j=0;j&lt;SIZE-1;j++)<br />
+      for(i=0;i&lt;SIZE-1-j;i++)<br />
+      if(compare(stu[i],stu[i+1])==1)<br />
+      {<br />
+      strcpy(temp.info,stu[i].info);<br />
+      strcpy(stu[i].info,stu[i+1].info);<br />
+      strcpy(stu[i+1].info,temp.info);<br />
+      }<br />
+      }<br />
+      void mingdan(struct Student stu[])//生成名单函数<br />
+      {<br />
+      int i;<br />
+      FILE *fp,*fp1;<br />
+      if((fp=fopen(&quot;C:\\list.txt&quot;,&quot;r&quot;))==NULL)<br />
+      {<br />
+      printf(&quot;can not open this file&quot;);<br />
+      exit(0);<br />
+      }<br />
+      for(i=0;i&lt;SIZE;i++)<br />
+      {<br />
+      fgets(stu[i].info,30,fp);<br />
+      }<br />
+      fclose(fp);</p>
+    <p> sort(stu);//对读入的名单排序<br />
+      for(i=0;i&lt;SIZE;i++)<br />
+      stu[i].num=((int)stu[i].info[0]-48)*10+((int)stu[i].info[1]-48);<br />
+      if((fp1=fopen(&quot;名单.txt&quot;,&quot;w&quot;))==NULL)<br />
+  <br />
+      {<br />
+      printf(&quot;can not open this file&quot;);<br />
+      exit(0);<br />
+      }<br />
+  <br />
+      for(i=0;i&lt;SIZE;i++)//生成新名�?br />
+      fputs(stu[i].info,fp1);<br />
+      fclose(fp1);<br />
+      }<br />
+      float jizhi(float s[5])//去掉一个最高分，去掉一个最低分的机�?br />
+      {<br />
+      int j;<br />
+      float max,min,sum=0;<br />
+      max=s[0];<br />
+      min=s[0];<br />
+      for(j=0;j&lt;5;j++)<br />
+      sum+=s[j];<br />
+      for(j=0;j&lt;4;j++)<br />
+      {<br />
+      if(s[j+1]&gt;max)<br />
+      max=s[j+1];<br />
+      if(s[j+1]&lt;min)<br />
+      min=s[j+1];<br />
+      }<br />
+      return sum-max-min;<br />
+      }<br />
+      float dafen()//设定�?个评委打�?br />
+      {<br />
+      float s[5];<br />
+      printf(&quot;评委1�?quot;);<br />
+      scanf(&quot;%f&quot;,&amp;s[0]);<br />
+      printf(&quot;评委2�?quot;);<br />
+      scanf(&quot;%f&quot;,&amp;s[1]);<br />
+      printf(&quot;评委3�?quot;);<br />
+      scanf(&quot;%f&quot;,&amp;s[2]);<br />
+      printf(&quot;评委4�?quot;);<br />
+      scanf(&quot;%f&quot;,&amp;s[3]);<br />
+      printf(&quot;评委5�?quot;);<br />
+      scanf(&quot;%f&quot;,&amp;s[4]);<br />
+      return jizhi(s);<br />
+      }<br />
+      void pingfen(struct Student stu[])//评分机制<br />
+      {<br />
+      FILE*fp;<br />
+      int num,j;<br />
+      float s1,s2,s3;<br />
+      printf(&quot;该学生机位号�?quot;);<br />
+      scanf(&quot;%d&quot;,&amp;num);<br />
+      printf(&quot;形象分：(满分10�?\n&quot;);<br />
+      s1=dafen();<br />
+      printf(&quot;代码分：(满分10�?\n&quot;);<br />
+      s2=dafen();<br />
+      printf(&quot;报告分：(满分10�?\n&quot;);<br />
+      s3=dafen();<br />
+      for(j=0;j&lt;SIZE;j++)<br />
+      {<br />
+      if(num!=stu[j].num)<br />
+      continue;<br />
+      else<br />
+      {<br />
+      stu[j].score=0.3*s1+0.3*s2+0.4*s3;<br />
+      printf(&quot;该学生最后得分为%.2f\n&quot;,stu[j].score);<br />
+      if((fp=fopen(&quot;成绩.txt&quot;,&quot;a&quot;))==NULL)<br />
+      {<br />
+      printf(&quot;can not open this file&quot;);<br />
+      exit(0);<br />
+      }<br />
+      fputs(stu[j].info,fp);//把学生得分情况储存到文本<br />
+      fprintf(fp,&quot;成绩�?.2f\n&quot;,stu[j].score);<br />
+      fclose(fp);<br />
+      }<br />
+      }<br />
+  <br />
+      }</p>
+    <p>int main()<br />
+      {<br />
+      FILE*fp;<br />
+      int l,m=1;<br />
+      struct Student stu[SIZE];<br />
+      mingdan(stu);<br />
+      printf(&quot;学生名单已生成\n&quot;);//生成名单<br />
+      printf(&quot;未生成成绩单请输�?，已有成绩单请输�?：\n&quot;);//判断是否已有该文�?br />
+      scanf(&quot;%d&quot;,&amp;l);<br />
+      while(l!=1&amp;&amp;l!=0)<br />
+      {<br />
+      printf(&quot;error!\n&quot;);<br />
+      }<br />
+      if(l==1)<br />
+      {<br />
+      if((fp=fopen(&quot;成绩.txt&quot;,&quot;w&quot;))==NULL)<br />
+      {<br />
+      printf(&quot;can not open this file&quot;);<br />
+      exit(0);<br />
+      }<br />
+      fputs(&quot;机位    学号        姓名\n &quot;,fp);<br />
+      fclose(fp);<br />
+      }<br />
+      while(m!=0)//打分过程<br />
+      {<br />
+      printf(&quot;欢迎使用打分系统，开始打分：\n&quot;);<br />
+      pingfen(stu);<br />
+      printf(&quot;成绩已保存在“成�?txt”中\n&quot;);<br />
+      printf(&quot;输入1继续下一位，输入0结束&quot;);<br />
+      scanf(&quot;%d&quot;,&amp;m);<br />
+      }<br />
+      printf(&quot;谢谢使用！\n&quot;);</p>
+    <p> return 0;<br />
+      }</p>
+    <h1>&nbsp;</h1>
+  <!-- end .content --></div>
+  <table width="180" border="1">
+    <tr>
+      <td height="99" bgcolor="#FFFFFF"> <h2><a href="需求分�?html">需 �?�?�?/a></h2></td>
+    </tr>
+    <tr>
+      <td height="76"><h2><a href="设计过程.html">�?�?�?�?/a></h2></td>
+    </tr>
+    <tr>
+      <td height="71"><h2><a href="调试过程.html">�?�?�?�?/a></h2></td>
+    </tr>
+    <tr>
+      <td height="74"><h2><a href="测试过程.html">�?�?�?�?/a></h2></td>
+    </tr>
+  </table>
+<!-- end .container --></div>
+</body>
+</html>

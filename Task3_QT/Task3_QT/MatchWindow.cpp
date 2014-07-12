@@ -17,12 +17,6 @@ void MatchWindow::OpenFile1()
 
 	File1label->setText(filename1);
 	textEdit->clear();
-
-	dis_min = -1;
-	isFirst = true;
-	prematch = 0;
-	tmp_max = 0;
-	Times = 0;
 }
 
 void MatchWindow::OpenFile2()
@@ -36,6 +30,10 @@ void MatchWindow::Operator()
 {
 	bool isBlank1, isBlank2;
 	textEdit->clear();
+	dis_min = -1;
+	isFirst = true;
+	prematch = 0;
+	tmp_max = 0;
 	Times = 0;
 
 	QFile file1(filename1), file2(filename2);
@@ -74,7 +72,7 @@ void MatchWindow::Operator()
 					break;
 				}
 			}
-		} while (isBlank1);
+		} while (isBlank1 && !file1.atEnd());
 
 		file2.seek(0);
 
@@ -99,7 +97,7 @@ void MatchWindow::Operator()
 						break;
 					}
 				}
-			} while (isBlank2);
+			} while (isBlank2 && !file2.atEnd());
 
 			Compare(str, Bestr);
 		}
@@ -109,17 +107,17 @@ void MatchWindow::Operator()
 
 	if (prematch <= 0.9)
 	{
-		Result2lineEdit->setText(QString::fromLocal8Bit("结果为:部分不相似"));
+		Result2lineEdit->setText(QString::fromLocal8Bit("结果为:整体不相似"));
 	}
 
 	else if (prematch < 0.98)
 	{
-		Result2lineEdit->setText(QString::fromLocal8Bit("结果为:部分基本相似"));
+		Result2lineEdit->setText(QString::fromLocal8Bit("结果为:整体基本相似"));
 	}
 
 	else if (prematch >= 0.98)
 	{
-		Result2lineEdit->setText(QString::fromLocal8Bit("结果为:部分非常相似"));
+		Result2lineEdit->setText(QString::fromLocal8Bit("结果为:整体非常相似"));
 	}
 
 	file1.close();

@@ -1,16 +1,13 @@
-﻿生成启动时间为 2014/7/12 13:05:00。
-     1>项目“F:\Codes\Task3_QT\Task3_QT\Task3_QT.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2014/7/12 13:31:11。
+     1>项目“F:\Task3\Task3_QT\Task3_QT\Task3_QT.vcxproj”在节点 2 上(Build 个目标)。
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_MatchWindow.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_MatchWindow.cpp, GeneratedFiles\Release\moc_MatchWindow.cpp.
-     1>ClCompile:
-         D:\VS2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IF:\Qt\Qt5.3.1\5.3\msvc2013_opengl\include /I.\GeneratedFiles\Release /IF:\Qt\Qt5.3.1\5.3\msvc2013_opengl\include\QtCore /IF:\Qt\Qt5.3.1\5.3\msvc2013_opengl\include\QtGui /IF:\Qt\Qt5.3.1\5.3\msvc2013_opengl\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MatchWindow.cpp
-         MatchWindow.cpp
-       Link:
-         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Codes\Task3_QT\Win32\Release\\Task3_QT.exe" /NOLOGO /LIBPATH:F:\Qt\Qt5.3.1\5.3\msvc2013_opengl\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"F:\Codes\Task3_QT\Win32\Release\Task3_QT.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Codes\Task3_QT\Win32\Release\Task3_QT.lib" /MACHINE:X86 /SAFESEH Release\moc_MatchWindow.obj
+     1>Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Task3\Task3_QT\Win32\Release\\Task3_QT.exe" /NOLOGO /LIBPATH:F:\Qt\Qt5.3.1\5.3\msvc2013_opengl\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"F:\Task3\Task3_QT\Win32\Release\Task3_QT.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Task3\Task3_QT\Win32\Release\Task3_QT.lib" /MACHINE:X86 /SAFESEH Release\moc_MatchWindow.obj
          Release\main.obj
          Release\MatchWindow.obj
-         Task3_QT.vcxproj -> F:\Codes\Task3_QT\Win32\Release\Task3_QT.exe
-     1>已完成生成项目“F:\Codes\Task3_QT\Task3_QT\Task3_QT.vcxproj”(Build 个目标)的操作。
+         Task3_QT.vcxproj -> F:\Task3\Task3_QT\Win32\Release\Task3_QT.exe
+     1>已完成生成项目“F:\Task3\Task3_QT\Task3_QT\Task3_QT.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:02.37
+已用时间 00:00:00.20
